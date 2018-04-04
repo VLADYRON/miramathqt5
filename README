@@ -1,0 +1,41 @@
+
+#------------------------------------------------------------------------------
+#   Copyright (c) 2008
+#       Roger Hale    roger314159@hotmail.com
+#
+#   This file is part of MiraMath.
+#
+#   MiraMath is free software: you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation, either version 3 of the License, or
+#   (at your option) any later version.
+#
+#   MiraMath is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with MiraMath.  If not, see <http://www.gnu.org/licenses/>.
+#------------------------------------------------------------------------------
+
+To run the source code the following Python extensions Python extensions must be installed:
+
+PyQt http://www.riverbankcomputing.co.uk
+PyQwt and PyQwt3D http://pyqwt.sourceforge.net/
+Ply http://www.dabeaz.com/ply/
+SymPy http://code.google.com/p/sympy/
+SciPy http://www.scipy.org
+
+If you are running Gentoo Linux then all of the above packages,except pqwtplot3d, are in portage. The later is not really needed since for now the 3D plotting feature is still experimental. Removing the line
+Quote:
+from PyQt4.Qwt3D import *
+from plot3dwidget.py should remove this requirement.
+
+After downloading the tarball type
+Quote:
+tar -xvjf filename
+to unpack the source code.
+
+To run Miramath type: python main.py in the same directory as the source code.
+

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/miramath/!svn/ver/37/tags/0.020
+END
+plotlegend.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/miramath/!svn/ver/37/tags/0.020/plotlegend.py
+END
+selectionbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/miramath/!svn/ver/37/tags/0.020/selectionbox.py
+END
+shadowbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/miramath/!svn/ver/37/tags/0.020/shadowbox.py
+END
+mathtoolbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/miramath/!svn/ver/37/tags/0.020/mathtoolbox.py
+END
+equationinit.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/miramath/!svn/ver/37/tags/0.020/equationinit.py
+END
+colorbutton.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/miramath/!svn/ver/37/tags/0.020/colorbutton.py
+END
+worksheet.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/miramath/!svn/ver/37/tags/0.020/worksheet.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/miramath/!svn/ver/37/tags/0.020/COPYING
+END
+slider.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/miramath/!svn/ver/37/tags/0.020/slider.py
+END
+plotequation.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/miramath/!svn/ver/37/tags/0.020/plotequation.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/miramath/!svn/ver/37/tags/0.020/main.py
+END
+equation.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/miramath/!svn/ver/37/tags/0.020/equation.py
+END
+symbolics_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/miramath/!svn/ver/37/tags/0.020/symbolics_init.py
+END
+contourplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/miramath/!svn/ver/37/tags/0.020/contourplot.py
+END
+plot3dwidget2.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/miramath/!svn/ver/37/tags/0.020/plot3dwidget2.py
+END
+contourplotwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/miramath/!svn/ver/37/tags/0.020/contourplotwidget.py
+END
+comment.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/miramath/!svn/ver/37/tags/0.020/comment.py
+END
+plot2d.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/miramath/!svn/ver/37/tags/0.020/plot2d.py
+END
+plot3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/miramath/!svn/ver/37/tags/0.020/plot3d.py
+END
+rubberband.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/miramath/!svn/ver/37/tags/0.020/rubberband.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/miramath/!svn/ver/37/tags/0.020/README
+END
+keywords.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/miramath/!svn/ver/37/tags/0.020/keywords.py
+END
+plot2dwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/miramath/!svn/ver/37/tags/0.020/plot2dwidget.py
+END
+numerics_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/miramath/!svn/ver/37/tags/0.020/numerics_init.py
+END
+plot3dwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/miramath/!svn/ver/37/tags/0.020/plot3dwidget.py
+END
+worksheetcursor.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/miramath/!svn/ver/37/tags/0.020/worksheetcursor.py
+END
+polarplot.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/miramath/!svn/ver/37/tags/0.020/polarplot.py
+END
+mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/miramath/!svn/ver/37/tags/0.020/mainwindow.py
+END
+equationwidgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/miramath/!svn/ver/37/tags/0.020/equationwidgets.py
+END
+execthread.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/miramath/!svn/ver/37/tags/0.020/execthread.py
+END
+inputparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/miramath/!svn/ver/37/tags/0.020/inputparser.py
+END
+outputparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/miramath/!svn/ver/37/tags/0.020/outputparser.py
+END
+layout.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/miramath/!svn/ver/37/tags/0.020/layout.py
+END
+polarplotwidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/miramath/!svn/ver/37/tags/0.020/polarplotwidget.py
+END
+image.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/miramath/!svn/ver/37/tags/0.020/image.py
+END
+equationcursor.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/miramath/!svn/ver/37/tags/0.020/equationcursor.py
+END
+activebox.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/miramath/!svn/ver/37/tags/0.020/activebox.py
+END
+symbolscharmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/miramath/!svn/ver/37/tags/0.020/symbolscharmap.py
+END
